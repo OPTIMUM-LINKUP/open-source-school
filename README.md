@@ -5,3 +5,7 @@ Gosfem was founded in March 2020 in response to a lack of powerful, usable and o
 
 The project aims to provide all schools, no matter their size or resources they have, with the systems they need to provide effective learning, teaching and school management. Gosfem is built using PHP, MySQL, jQuery and other open tools.
 We also have the free cloud version here https://gosfem.com
+
+You can download file https://sourceforge.net/projects/gosfem/files/latest/download because software larger than 25MB
+
+
